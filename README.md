@@ -180,7 +180,7 @@ module.exports = (sequelize, DataTypes) => {
         // Define a column called visits of type Integer with a default value of 1
         visits: {
             type: DataTypes.INTEGER,
-            dafeaultValue: 1,
+            defaultValue: 1,
         },
     });
 
